@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">app_notes</string>
+    <string name="contenido_del_cardview">Contenido del CardView</string>
+</resources>
