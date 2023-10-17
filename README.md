@@ -2,5 +2,5 @@
 
 Aqui veras el uso de una aplicacion de notas con 3 items
 
-[![Este video explica como se usa la aplicacion](video_explicativo.mp4)]
+[[Este video explica como se usa la aplicacion](video_explicativo.mp4)]
 
